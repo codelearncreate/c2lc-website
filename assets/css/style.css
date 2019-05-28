@@ -15,7 +15,7 @@ header {
 .wrapper {
     max-width: 1100px;
     margin: 0 auto;
-    padding: 3em 1em 1em 1em;
+    padding: 3em 2em 1em 2em;
 }
 
 .logos-container {
@@ -52,7 +52,7 @@ header h2 {
     font-weight: normal;
     line-height: 1.3em;
     max-width: 90%;
-    /* padding-top: 1em; */
+    padding-bottom: 1em;
     text-align: center;
     margin: 0 auto;
 }
@@ -64,27 +64,27 @@ header img {
     margin: 0 auto;
 }
 
-.home-short-intro .collapsable-container {
+/* .home-short-intro .collapsable-container {
     display: flex;
     justify-content: space-between;
-}
+} */
 
-.home-long-intro .collapsable-container {
+/* .home-long-intro .collapsable-container {
     display: flex;
-    justify-content: space-between;
-}
-
-/* .home-short-intro .column:first-of-type {
-    flex: 1 50%;
-}
-
-.home-short-intro .column:last-of-type {
-    flex: 1 1;
+    align-items: flex-start;
 } */
 
 .home-long-intro .wrapper {
-    padding-top: 4em;
+    padding-top: 0;
     padding-bottom: 3em;
+}
+
+.life-skills-tools, .vr-dog {
+    display: none;
+}
+
+.life-skills-tools {
+    width: 284px;
 }
 
 .home-features {
@@ -219,7 +219,7 @@ footer a, footer a:visited {
     }
 
     .home-long-intro > .wrapper {
-        padding-top: 4em;
+        padding-top: 0;
         padding-bottom: 4em;
     }
 
@@ -244,8 +244,31 @@ footer a, footer a:visited {
         justify-content: space-between;
     }
 
+    .home-long-intro-flex {
+        display: flex;
+    }
+
     .column {
         width: 45%;
+    }
+
+    .life-skills-tools, .vr-dog {
+        display: inline;
+    }
+
+    .vr-dog {
+        width: 350px;
+        height: 0;
+    }
+
+    .life-skills-tools {
+        width: 200px;
+        height: auto;
+        margin-right: 6em;
+    }
+
+    .home-long-intro-text {
+        max-width: 600px;
     }
 
     .logos-container {
@@ -276,6 +299,13 @@ footer a, footer a:visited {
         display: none;
     }
 
+    .home-short-intro .wrapper {
+        padding-bottom: 2em;
+    }
+    .home-short-intro p:first-child {
+        padding-bottom: 2em;
+    }
+
     /* .home-short-intro {
         display: block;
         background: #FFF;
@@ -294,7 +324,7 @@ footer a, footer a:visited {
     } */
 
     .home-long-intro > .wrapper {
-        padding-top: 6em;
+        padding-top: 0;
         padding-bottom: 5em;
     }
 
@@ -316,9 +346,9 @@ footer a, footer a:visited {
         padding-top: 0;
     }
 
-    .home-features-items {
+    /* .home-features-items {
         margin-bottom: 35px;
-    }
+    } */
 
     input {
         width: 300px;

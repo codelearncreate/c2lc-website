@@ -7,10 +7,6 @@ body {
     color: #1E1E1E;
 }
 
-header, main {
-    background: #19216C;
-}
-
 header {
     background: #313131;
     color: #FFFFFF;
@@ -45,7 +41,7 @@ h2 {
 }
 
 header .wrapper {
-    padding-top: 3em;
+    padding-top: 1em;
     padding-bottom: 2em;
 }
 
@@ -56,7 +52,16 @@ header h2 {
     font-weight: normal;
     line-height: 1.3em;
     max-width: 90%;
-    padding-top: 1em;
+    /* padding-top: 1em; */
+    text-align: center;
+    margin: 0 auto;
+}
+
+header img {
+    width: 220px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .home-short-intro {
@@ -190,6 +195,11 @@ footer a, footer a:visited {
         padding: 4em 4em;
     }
 
+    header img {
+        width: 334px;
+        height: auto;
+    }
+
     header h1 {
         font-size: 2.5em;
     }
@@ -235,7 +245,8 @@ footer a, footer a:visited {
 
 @media screen and (min-width: 1000px) {
     header .wrapper {
-        padding-top: 6em;
+        padding-top: 1em;
+        padding-bottom: 3em;
     }
 
     header h1 {

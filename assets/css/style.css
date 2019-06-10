@@ -64,27 +64,8 @@ header img {
     margin: 0 auto;
 }
 
-/* .home-short-intro .collapsable-container {
-    display: flex;
-    justify-content: space-between;
-} */
-
-/* .home-long-intro .collapsable-container {
-    display: flex;
-    align-items: flex-start;
-} */
-
-.home-long-intro .wrapper {
-    padding-top: 0;
-    padding-bottom: 3em;
-}
-
-.life-skills-tools, .vr-dog {
+.home-intro-image {
     display: none;
-}
-
-.life-skills-tools {
-    width: 284px;
 }
 
 .home-features {
@@ -228,47 +209,37 @@ footer a, footer a:visited {
     }
 }
 
-@media screen and (min-width: 768px) {
-    .home-short-intro {
-        margin: 0;
-    }
-
-    .home-short-intro img {
-        height: auto;
+@media screen and (max-width: 499px) {
+    footer > .wrapper {
+        padding-bottom: 3em;
     }
 }
 
 @media (min-width: 900px) {
-    .collapsable-container {
+    .collapsible-container {
         display: flex;
         justify-content: space-between;
     }
 
-    .home-long-intro-flex {
-        display: flex;
+    .home-short-intro p:first-child {
+        margin-top: 0;
     }
 
-    .column {
-        width: 45%;
+    .home-intro-text {
+        flex-basis: 60%;
     }
 
-    .life-skills-tools, .vr-dog {
-        display: inline;
+    .home-intro-image {
+        flex-basis: auto;
+        display: block;
     }
 
-    .vr-dog {
-        width: 350px;
-        height: 0;
+    .home-cta-request, .home-cta-form, footer > .wrapper > .collapsible-container > p {
+        flex-basis: 45%;
     }
 
-    .life-skills-tools {
-        width: 200px;
-        height: auto;
-        margin-right: 8em;
-    }
-
-    .home-long-intro-text {
-        max-width: 600px;
+    .home-cta-form {
+        padding-top: 0;
     }
 
     .logos-container {
@@ -299,15 +270,19 @@ footer a, footer a:visited {
         display: none;
     }
 
-    .home-short-intro .wrapper {
-        padding-bottom: 2em;
+    .home-short-intro > .wrapper, .home-long-intro > .wrapper {
+        width: 60%;
     }
+
+    .home-short-intro .wrapper {
+        padding-bottom: 6em;
+    }
+
     .home-short-intro p:first-child {
-        padding-bottom: 2em;
+        padding-bottom: 1em;
     }
 
     .home-long-intro > .wrapper {
-        padding-top: 0;
         padding-bottom: 5em;
     }
 
@@ -319,10 +294,6 @@ footer a, footer a:visited {
     .home-cta {
         padding-top: 2em;
         padding-bottom: 1.5em;
-    }
-
-    .home-cta-form {
-        padding-top: 0;
     }
 
     input {

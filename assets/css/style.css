@@ -235,7 +235,7 @@ footer a, footer a:visited {
     }
 
     .home-cta-request, .home-cta-form, footer > .wrapper > .collapsible-container > p {
-        flex-basis: 45%;
+        flex-basis: 42%;
     }
 
     .home-cta-form {

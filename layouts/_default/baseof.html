@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
     {{ $style := resources.Get "css/style.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/timeago.js/3.0.2/timeago.min.js"></script>
 </head>
 <body>
 {{ partial "header.html" . }}
@@ -14,5 +15,11 @@
 {{ block "main" . }}{{ end }}
 </main>
 {{ partial "footer.html" . }}
+<script>
+    timeago().render(document.querySelectorAll('.home-news-timestamp'));
+    // Cancelling real-time updates. Timestamps will only be refreshed
+    // if the page is reloaded.
+    timeago.cancel();
+</script>
 </body>
 </html>

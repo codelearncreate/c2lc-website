@@ -1,0 +1,9 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<section class="blog">
+    <div class="wrapper">
+        {{ .Content }}
+    </div>
+</section>
+{{ end }}

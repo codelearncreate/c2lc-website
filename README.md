@@ -12,6 +12,14 @@ hugo server
 
 Now visit http://localhost:1313/ to preview any changes you're making.
 
+## Add Blog Posts
+
+To add a new blog post:
+
+* Create a subdirectory in the [blog](https://github.com/codelearncreate/c2lc-website/tree/master/content/blog) directory
+* Optionally create an ``images`` directory in the new subdirectory
+* Create an ``index.md`` file for the content -- refer to files from [previous posts](https://github.com/codelearncreate/c2lc-website/tree/master/content/blog) for examples of required layout
+
 ## Deploy Changes
 
 Pushing changes to the ``master`` branch of this repository will trigger deployments. Generally it will take a couple minutes before changes are reflected on the [live site](https://codelearncreate.org/).

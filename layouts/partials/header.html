@@ -1,6 +1,10 @@
 <header>
     <div class="wrapper">
-        <img src="images/logo-c2lc-name.svg" alt="Coding to Learn and Create">
+        {{ if eq .Kind "home" }}
+        <a href="/"><img class="home-header" src="/images/logo-c2lc-name.svg" alt="Coding to Learn and Create"></a>
+        {{ else }}
+        <a href="/"><img src="/images/logo-c2lc-name.svg" alt="Coding to Learn and Create"></a>
+        {{ end }}
         <h2>Creating educational coding tools & teaching resources that support learners with disabilities</h2>
     </div>
 </header>

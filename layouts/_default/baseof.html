@@ -15,11 +15,6 @@
 {{ block "main" . }}{{ end }}
 </main>
 {{ partial "footer.html" . }}
-<script>
-    timeago().render(document.querySelectorAll('.home-news-timestamp'));
-    // Cancelling real-time updates. Timestamps will only be refreshed
-    // if the page is reloaded.
-    timeago.cancel();
-</script>
+{{ partial "timeago.html" . }}
 </body>
 </html>

@@ -1,0 +1,15 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<section class="blog-index">
+    <div class="wrapper">
+        {{ .Content }}
+        {{ range .Pages.ByDate.Reverse }}
+        <div class="blog-posts">
+            <a class="blog-posts-titles" href="{{.Permalink}}" >{{.Title}}</a>
+            <span class="timestamp" datetime="{{ dateFormat "2006-01-02T15:04:05" .Params.date }}">{{ dateFormat "2006-01-02T15:04:05" .Params.date }}</span>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}

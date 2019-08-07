@@ -1,0 +1,4 @@
+{{ $isCurrentEntry := eq .entrySection .currentSection }}
+<li class="navbarEntry {{ if $isCurrentEntry }}navbarEntryCurrent{{ end }}">
+    <a href="{{ relref .Page .link }}" {{ if $isCurrentEntry }}aria-current="true" class="current"{{ end }}>{{ .name }}</a>
+</li>

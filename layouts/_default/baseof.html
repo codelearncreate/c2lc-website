@@ -11,10 +11,11 @@
 </head>
 <body>
 {{ partial "header.html" . }}
-<main role="main" class="container">
+<main role="main" id="main" class="container">
 {{ block "main" . }}{{ end }}
 </main>
 {{ partial "footer.html" . }}
 {{ partial "timeago.html" . }}
+{{ partial "nav.html" . }}
 </body>
 </html>

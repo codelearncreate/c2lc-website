@@ -1,10 +1,28 @@
 <header>
     <div class="wrapper">
+        <a class="skip-link" href="#main">Skip to main content</a>
         {{ if eq .Kind "home" }}
         <a href="/"><img class="home-header" src="/images/logo-c2lc-name.svg" alt="Coding to Learn and Create"></a>
         {{ else }}
         <a href="/"><img src="/images/logo-c2lc-name.svg" alt="Coding to Learn and Create"></a>
         {{ end }}
-        <h2>Creating educational coding tools & teaching resources that support learners with disabilities</h2>
+
+        {{ if .IsHome }}
+            {{ .Scratch.Set "currentSection" "home" }}
+        {{ else if eq .Section "blog" }}
+            {{ .Scratch.Set "currentSection" "blog" }}
+        {{ end }}
+        {{ $currentSection := .Scratch.Get "currentSection" }}
+        <nav role="navigation">
+            <button id="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-menu">
+                    <span></span>
+            </button>
+            <ul id="nav-menu">
+                {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "home" "name" "Home" "link" "/_index.html" )) " \n" | safeHTML -}}
+                {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "blog" "name" "Blog" "link" "/blog/_index.md" )) " \n" | safeHTML -}}
+                <li><a href="https://resources.codelearncreate.org/">Resources</a></li>
+                <li><a href="https://prototype.codelearncreate.org/">Prototype</a></li>
+            </ul>
+        </nav>
     </div>
 </header>

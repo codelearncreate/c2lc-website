@@ -3,7 +3,7 @@ title: "Co-designing with young kids at Kayla's Children centre"
 date: "2019-07-12"
 ---
 
-# Co-designing with with young kids at Kayla's Children Centre
+# Co-designing with young kids at Kayla's Children Centre
 
 {{< img src="images/IMG_20190712_101232.jpg" alt="An artwork reflecting the sequences campers built using the C2LC prototype " >}}
 

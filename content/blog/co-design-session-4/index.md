@@ -1,9 +1,9 @@
 ---
-title: "Co-designing with young boys at Plyful Strides"
+title: "Co-designing with young boys at Playful Strides"
 date: "2019-07-26"
 ---
 
-# Co-design session with young boys with social and behavioural challenges
+# Co-designing with young boys at Playful Strides
 
 {{< img src="images/IMG_3366.jpg" alt="Paint pattern made in a kiddie pool from robots rolling around in paint." >}}
 

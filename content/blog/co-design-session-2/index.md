@@ -1,13 +1,13 @@
 ---
-title: "Co-design session with young kids with social and behavioral challenges"
+title: "Co-designing with young boys at Kayla's Children Centre"
 date: "2019-07-12"
 ---
 
-# Co-design session with young kids with social and behavioral challenges
+# Co-designing with young boys at Kayla's Children Centre
 
 {{< img src="images/Design Activity Using the prototype.jpg" alt="An artwork reflecting the sequences campers built using the C2LC prototype." >}}
 
-This co-design session was held on July 12th from 10:30-11:30 at [Kayla’s Children Center](https://kaylaschildrencentre.org/) a centre specialized in educational, therapeutic, and recreational programs for infants, children and teens with special needs, in Thornhill. The event was attended by 6 campers aging between 5-7 years old. All of the campers were independently mobile, verbal, some of them were not able to read, and they all experienced different social and behavioral needs. There were about 4 camp counselors accompanying this group of kids. This event was facilitated by three IDRC members and one member of the Bridges Canada team.
+This co-design session was held on July 12th from 10:30-11:30 at [Kayla’s Children Center](https://kaylaschildrencentre.org/) a centre specialized in educational, therapeutic, and recreational programs for infants, children and teens with special needs, in Thornhill. The event was attended by 6 campers aging between 5-7 years old. All of the campers were independently mobile, verbal, reading at different levels of literacy, and they all experienced different social and behavioral needs. There were about 4 camp counselors accompanying this group of kids. This event was facilitated by three IDRC members and one member of the Bridges Canada team.
 
 ## Planning for the Co-Design Session
 
@@ -15,7 +15,7 @@ Prior to our co-design session, the team had the chance to be involved with this
 
 Our learnings from these sessions include: 
 
-<p class="indented"><em>Set an Agenda:</em> Campers benefited from clear verbal instructions and behavioral expectations to recognize appropriate responses and to manage their impulses.</p>
+<p class="indented"><em>Set an Agenda:</em> Campers benefited from clear verbal instructions and behavioral expectations to complete tasks and interact with provided computers and robots.</p>
 
 <p class="indented"><em>Combination of group and individual activities:</em> Based on our interactions with the campers, we noticed that some campers work well together, while others benefited from one-on-one support.</p>
 
@@ -27,9 +27,9 @@ Our learnings from these sessions include:
 
 The C2LC prototype was projected on a screen and the facilitator used simple language to introduce the different sections to the campers. The facilitator tried to keep the campers engaged by asking them to raise their hands after introducing each part of the interface. Campers got the opportunity to trial the C2LC prototype with an art activity. Markers were taped to Dash robots and Sphero robots were dipped in paint. The campers coded their own sequences that the robots drew or painted on the paper laid out in front of them. 
 
-A challenge was regulating the excitement and high energy levels in one common indoor space. Many campers expressed their excitement through shouting, and making sounds (clapping, stomping), which created distractions for all campers. Campers had difficulty focusing on one activity for an extended period or waiting to interact with their desired robot.
+A challenge was regulating the excitement and high energy levels in one common indoor space. Many campers expressed their excitement through shouting, and making sounds (clapping, stomping). This high energy made it difficult for campers to focus on one activity for an extended period or waiting to interact with their desired robot.
 
-It was important to provide clear instructions and reinforce expectations. Some campers struggled to verbally communicate their emotions and needs. One camper expressed frustration through inappropriate physical responses such as hitting and biting.  Despite these challenges, most campers worked effectively in pairs and were able to take turns. They did not grab the robots and often verbally referenced the practice of carrying robots with two hands when invited.
+It was important to provide clear instructions and reinforce expectations. Some campers preferred to use alternative ways to communicate their emotions and needs. One camper expressed frustration through physical responses such as hitting and biting.  Despite these challenges, most campers worked effectively in pairs and were able to take turns. They took care of the robots by not grabbing them and often verbally referenced the practice of carrying robots with two hands when invited.
 
 {{< img src="images/design activity.jpg" alt="Camper coding sequences to create art with markers, paint and the robots, Dash and Sphero." >}}
 
@@ -41,9 +41,9 @@ Following the art activity, the campers were provided with a board with all comp
 * What are the other ways you want to control your robot?
 * In the viewing area, what would you like to see?
 
-A few of the campers in this group could not read written text effectively and this presented challenges as they could not independently read the questions and add their comments to the board. The facilitators had to be the scribes for these campers. Future solutions could include having only pictures/images on the boards to be inclusive of different literacy and language abilities, and/or a digital platform with speech-to-text functions. 
+Campers in this group had varied levels of reading and writing skills. The facilitators posed questions and acted as scribes for these campers on a one-to-one basis to capture their ideas and thoughts. Future approaches to capture ideas could include having only pictures/images on the boards to be inclusive of different literacy and language abilities, and/or a digital platform with speech-to-text functions. 
 
-Distractibility was a continual challenge. For example, one camper spent the majority of the design session drawing an avatar on the board after he had seen an image of avatars as options for the prototype interface. 
+Re-directing attention and focus of the campers was a continual part of the facilitation process. For example, one camper spent the majority of the design session focused on drawing an avatar on the board after he had seen an image of avatars as options for the prototype interface. 
 
 {{< img src="images/Shalom Co-design.jpg" alt="Camper designing his own coding interface on Styrofoam board with guidance from team facilitator." >}}
 
@@ -74,9 +74,9 @@ Viewing Area
 
 {{% reflections %}}
 ## Team Reflections
-* 1:1 facilitation was required to maintain the campers’ focus, attention, and have discussions around their ideas that were not always articulated very clearly as a result of delayed literacy and communication skills.
-* Activities should not take longer than 10-15 minutes as campers had a tendency to become disengaged from a task very quickly.
+* 1:1 facilitation was required to maintain the campers’ focus, attention, and have discussions around their ideas that were not always articulated very clearly as a result of varied literacy levels and communication skills.
+* Activities should not take longer than 10-15 minutes as campers had a tendency to become disengaged from a task during longer activities.
 * Providing each group of campers with a different equipment and robot led to distraction and sometimes aggressive behavior in order to access a specific robot. In future sessions, it is suggested to provide all campers with similar robots and more robots available to reduce the wait time.
 * Abstract design thinking activities should be coupled with hands-on and interactive tasks to keep participants engaged in those activities.
-* The acoustics in the provided space made it a very loud environment. In future sessions, acoustics should tried to be managed especially with an easily distracted population.
+* The acoustics in the provided space made it a very loud environment. In future sessions, acoustics should tried to be managed to help participants better focus on activities in progress.
 {{% /reflections %}}

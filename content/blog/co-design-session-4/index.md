@@ -1,9 +1,9 @@
 ---
-title: "Co-design session with young boys with social and behavioural challenges"
+title: "Co-designing with young boys at Playful Strides"
 date: "2019-07-26"
 ---
 
-# Co-design session with young boys with social and behavioural challenges
+# Co-designing with young boys at Playful Strides
 
 {{< img src="images/IMG_3366.jpg" alt="Paint pattern made in a kiddie pool from robots rolling around in paint." >}}
 
@@ -15,7 +15,7 @@ The team was involved with three coding sessions facilitated by the Bridges team
 
 <p class="indented"><em>Have a Visual Schedule as an Agenda:</em> Campers benefited from clear visuals of the day’s activities and a verbal explanation of what the day’s activities are at the start of the day.</p>
 
-<p class="indented"><em>Use a Visual Emotional Regulation Chart:</em> Provide campers with the ability to communicate how they are feeling with a zone of regulation chart where they can express themselves by pointing to a zone.</p> 
+<p class="indented"><em>Use a Visual Emotional Regulation Chart:</em> Campers were provided with a visual tool to communicate how they are feeling with a zone of regulation chart where they can express themselves by pointing to a zone.</p> 
 
 <p class="indented"><em>One-on-One Facilitation:</em> These campers required significant one-on-one support to be able to stay focused on tasks and to interact effectively with the prototype and robots.</p>
 
@@ -37,23 +37,23 @@ After, the campers got the opportunity to participate in an art activity as they
 
 {{< img src="images/IMG_3363.jpg" alt="Camper creates a sequence to get the Dash robot to draw his favourite Pokemon on paper." >}}
 
-A challenge was maintaining the engagement of each camper in a common indoor space with many distractions (windows, other therapy sessions going on, various toys/objects left around the room). Campers had difficulty focusing on one activity for any extended period or waiting to interact with their desired robot while someone else has a turn. Campers required constant reorienting to the activity at present and regular reminders to look at the robot in front of them carrying out their programs. 
+The camp environment had many distractions within a common indoor space: large windows and curtains, various colourful toys and therapy resources, as well as ongoing therapy sessions nearby. Participating in one activity within this camp environment for an extended period of time made focusing difficult for campers, especially since there were a limited number of robots and turn-taking was required. To encourage engagement, campers were reoriented to the activity at present and given regular reminders to look at the robot in front of them as it carried out their programmed sequence/code. 
 
 Some of the campers also had difficulty recognizing that the sequence being built on the prototype was providing direction for what was being drawn on the paper or painted in the pool. They required significant facilitation during this activity. After the art activity, campers took a body break. 
 
 ### Redesigning the prototype  
 
-For this activity, four stations were set up: “Commands”, “Program”, “Viewing Area”, and “Alternative Access”. At each station only one section of the prototype was discussed and several alternative options were provided for idea generation. Campers spent about 10 minutes at each station. Facilitators used a board with all the components of the C2LC prototype attached to it and tried to talk with the campers at each station to take them through the available options and discuss what they would like to add to the board.
+For this activity, four stations were set up: “Commands”, “Program”, “Viewing Area”, and “Alternative Access”. At each station only one section of the prototype was discussed and several alternative options were provided for idea generation. Campers spent about 10 minutes at each station. Facilitators used a board with all the components of the C2LC prototype attached to it at each station to take each camper through the available options and discuss what they would like to add to the board.
 
 {{< img src="images/IMG_4219.JPEG" alt="A camper adds sticky notes to a design board with his ideas." >}}
 
-At the “Alternative Access” station, samples of alternative access devices, such as a joystick and a trackball, along with a video of an [eye gaze](https://www.youtube.com/watch?v=dB5OWdLXPd8) and a [sip and puff](https://www.youtube.com/watch?v=mpVrdV0rnJw) were physically provided to help demonstrate what alternative access meant. At this station, there were also taped sunglasses and oven mitts available to simulate visual impairment and limited fine motor skills, respectively. Despite providing the examples and videos, empathy was a challenge - campers struggled to understand why these devices should be used. They were unable to provide suggestions beyond their own personal preferences. 
+At the “Alternative Access” station, samples of alternative access devices, such as a joystick and a trackball, along with a video of an [eye gaze](https://www.youtube.com/watch?v=dB5OWdLXPd8) and a [sip and puff](https://www.youtube.com/watch?v=mpVrdV0rnJw) were physically provided to help demonstrate what alternative access meant. At this station, there were also taped sunglasses and oven mitts available to simulate visual impairment and limited fine motor skills, respectively. Despite providing the examples and videos, empathy was a challenging abstract demand - campers struggled to understand why these devices should be used. Most suggestions were expressed for own personal preferences. 
 
 {{< img src="images/20190726_105554.jpg" alt="Campers watch a video of an eye-gaze system with a facilitator." >}}
 
-One camper had significant echolalia and needed to be provided with options as he struggled with communicating his own ideas. When given two options verbally, he would regularly repeat the last option provided as his choice and thus, it made it difficult for facilitators to ask what he prefered from verbal lists of choices. 
+One camper had significant echolalia and was provided with options to communicate his own ideas. When given two options verbally, he would regularly repeat the last option provided as his choice. It was unclear what he prefered from verbal lists of choices. 
 
-Overall, this co-design activity seemed to be abstract for this group’s abilities. There were some good discussions at the “Commands” station in regards to new commands and colors, as well as the “Viewing Area” station (adding different backgrounds and icons). However, the campers were disengaged and could not contribute meaningful selections at the other two stations. Whatever ideas they did contribute seemed to be in order to complete the activity and move on, not to redesign the board. 
+Overall, this co-design activity seemed to be abstract for this group’s abilities. There were some good discussions at the “Commands” station in regards to new commands and colors, as well as the “Viewing Area” station (adding different backgrounds and icons). However, the campers were less engaged compared to other robot activities and could not contribute meaningful selections at the other two stations. Facilitators were wondering if the ideas they contributed were done to complete the activity and move on to satisfy the facilitator, rather than to redesign the board. 
 
 {{% suggestions %}}
 ## Suggestions for the C2LC Prototype Design
@@ -88,5 +88,5 @@ Viewing Area
 * Visual aids provided needed clarity for setting behavioral expectations (i.e. sit listen and learn before practicing with the robots) and reinforcing agenda plan.
 * Novelty and hands-on activities are key to generating interest, excitement and maintaining engagement.
 * 1:1 facilitation better engages younger campers in idea generation processes.
-* With the communication challenges present in this session, more feedback came from watching the campers use the interface rather than during the co-design sessions where they could not articulate effective verbal feedback or ideas.
+* With the communication differences present in this session, more feedback came from watching the campers use the interface rather than during the co-design sessions where they could not articulate effective verbal feedback or ideas.
 {{% /reflections %}}

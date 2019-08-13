@@ -1,5 +1,5 @@
 ---
-title: "Co-designing with youn adults at Camp Karma"
+title: "Co-designing with young adults at Camp Karma"
 date: "2019-07-12"
 ---
 

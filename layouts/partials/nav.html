@@ -1,15 +1,12 @@
 <script>
     var toggle = document.querySelector('#nav-toggle');
     var menu = document.querySelector('#nav-menu');
-    var logo = document.querySelector('header img');
 
-    toggle.addEventListener('click', function(){
+    toggle.addEventListener('click', function() {
         if (menu.classList.contains('active')) {
             this.setAttribute('aria-expanded', 'false');
-            logo.style.display = 'block';
         } else {
             this.setAttribute('aria-expanded', 'true');
-            logo.style.display = 'none';
         }
         toggle.classList.toggle('active');
         menu.classList.toggle('active');

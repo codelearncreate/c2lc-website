@@ -20,8 +20,8 @@
             <ul id="nav-menu">
                 {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "home" "name" "Home" "link" "/_index.html" )) " \n" | safeHTML -}}
                 {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "blog" "name" "Blog" "link" "/blog/_index.md" )) " \n" | safeHTML -}}
-                <li><a href="https://resources.codelearncreate.org/">Resources</a></li>
-                <li><a href="https://prototype.codelearncreate.org/">Prototype</a></li>
+                <li><a href="https://resources.codelearncreate.org/" target="_blank">Resources</a></li>
+                <li><a href="https://prototype.codelearncreate.org/" target="_blank">Prototype</a></li>
             </ul>
         </nav>
     </div>

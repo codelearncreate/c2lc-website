@@ -18,7 +18,7 @@ header {
     padding: 3em 2em 1em 2em;
 }
 
-.logos-container {
+.org-logos-container {
     display: none;
 }
 
@@ -333,16 +333,11 @@ footer a, footer a:visited {
 .social-media-logos-container {
     display: flex;
     justify-content: space-between;
-    width: 50%;
+    width: 60%;
     margin: auto;
-    padding-top: 2em;
-    padding-bottom: 3em;
+    padding-top: 1em;
+    padding-bottom: 1.9em;
     align-items: center;
-}
-
-.social-media-logos-container *{
-    height: 3em;
-    width: 3em;
 }
 
 .flex {
@@ -352,7 +347,12 @@ footer a, footer a:visited {
     align-items: center;
 }
 
-.logo {
+.social-media-logo {
+    width: 35px;
+    height: auto;
+}
+
+.org-logo {
     width: 150px;
     height: auto;
 }
@@ -487,7 +487,7 @@ footer a, footer a:visited {
     }
 
     .social-media-logos-container {
-        width: 40%;
+        width: 50%;
     }
 }
 
@@ -519,7 +519,7 @@ footer a, footer a:visited {
     }
 
     .social-media-logos-container {
-        width: 30%;
+        width: 40%;
     }
 }
 
@@ -561,7 +561,7 @@ footer a, footer a:visited {
         margin: 4% 23% 4% 23%;
     }
 
-    .logos-container {
+    .org-logos-container {
         display: flex;
         justify-content: space-between;
         width: 100%;
@@ -570,7 +570,7 @@ footer a, footer a:visited {
     }
 
     /* OCADU logo is taller than others */
-    .logos-container a:nth-child(2) img {
+    .org-logos-container a:nth-child(2) img {
         height: 100px;
     }
 

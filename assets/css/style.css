@@ -370,6 +370,7 @@ footer a, footer a:visited {
 
 .blog h1, .blog-index h1 {
     color: #1E1E1E;
+    margin-bottom: 1em;
 }
 
 .blog h2 {

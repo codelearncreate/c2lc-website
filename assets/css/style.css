@@ -256,6 +256,7 @@ input {
     margin-top: 0.3em;
     padding: 1em;
     width: 220px;
+    height: 100%;
 }
 
 .button {
@@ -585,5 +586,4 @@ footer a, footer a:visited {
         width: 300px;
     }
 }
-    #mce-EMAIL{ height: 19px
-     }
+

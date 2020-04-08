@@ -21,7 +21,7 @@ Learners were introduced to new concepts and vocabulary in group settings using 
 
 {{< img src="images/multiple-means-of-access-and-differentiated-materials.jpg" alt="Learners using differentiated learning materials" >}}
 
-A wide range of learnings preferences were accommodated by using multiple means of access and differentiated materials.
+A wide range of learning preferences were accommodated by using multiple means of access and differentiated materials.
 
 These resources and practices ensured that all learners had the opportunity to participate!
 

@@ -1,0 +1,6 @@
+{{ $image := .Page.Resources.GetMatch (.Get "src") }}
+<div style="text-align: center;">
+    <p>
+        <img src="{{ $image.RelPermalink }}" alt="{{ .Get "alt" }}">
+    </p>
+</div>

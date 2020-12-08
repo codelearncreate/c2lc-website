@@ -11,7 +11,9 @@ We are excited to share [version 0.5 of the Inclusive Coding Environment](https:
 
 {{< blog-img src="images/movements-panel.jpg" alt="Movements panel with nine buttons" >}}
 
-- **Save and share work** - While modifying your program the URL being used by your web browser will be updated with information regarding your character's position, direction, and paths that have been drawn. This URL can be saved and visited at a later time to recreate all of your work!
+- **Save and share work** - While modifying your program, the URL being used by your web browser will be updated with information regarding your character's position, direction, and paths that have been drawn. This URL can be easily copied to your clipboard by clicking the Share button. Whenever you visit this URL, all your work will be recreated!
+
+{{< blog-img src="images/share-button.jpg" alt="Share button" >}}
 
 - **Character position and actions are sonified** - Additional work on sonification features mean the software provides cues about your character's horizontal and vertical movements, as well as different sounds as scene boundaries are approached.
 

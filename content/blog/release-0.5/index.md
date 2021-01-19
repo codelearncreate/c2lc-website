@@ -5,7 +5,11 @@ date: "2020-12-03"
 
 # Release 0.5 of the Inclusive Coding Environment
 
-We are excited to share [version 0.5 of the Inclusive Coding Environment](https://build.codelearncreate.org/)! This release includes significant new features and refinements of some previous ones:
+We are excited to share [version 0.5 of the Inclusive Coding Environment](https://build.codelearncreate.org/)!
+
+{{< youtube Uus9JlafT8k >}}
+
+This release includes significant new features and refinements of some previous ones:
 
 - **New movement and turning commands** - You can move forward one, two, or three steps, or also turn 45, 90, or 180 degrees, using a single command. The screenshot below shows a total of nine movement commands:
 

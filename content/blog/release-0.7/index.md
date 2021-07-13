@@ -5,7 +5,7 @@ date: "2021-04-16"
 
 # Release 0.7 of Weavly
 
-We are excited launch the [new Weavly website](https://weavly.org/) and share [version 0.7 of Weavly](https://create.weavly.org/?v=0.7)!
+We are excited to launch the [new Weavly website](https://weavly.org/) and share [version 0.7 of Weavly](https://create.weavly.org/?v=0.7)!
 
 
 Changes in this version include:
@@ -26,7 +26,7 @@ Changes in this version include:
 
 {{< blog-img src="images/characters.png" alt="Characters available in Weavly" >}}
 
-- **the ability to hide actions in order to simplify the choices**
+- **the ability to hide actions in order to simplify the interface for a learner**
 
 {{< blog-img src="images/hide_actions.png" alt="Actions panel with some options hidden." >}}
 

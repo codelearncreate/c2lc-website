@@ -11,7 +11,7 @@ along with some new activities in the Weavly [Educators Toolkit](https://weavly.
 
 Changes in this version include:
 
-- **Backgrounds that support the new activities and include announcements for special squares**
+- **Backgrounds and characters that support the new activities and include announcements for special squares**
 {{< blog-img src="images/choose_background.png" alt="Select a scene background dialog" >}}
 
 - **Improvements to the layout, contrast and sizing of text and icons**

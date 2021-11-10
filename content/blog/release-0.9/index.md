@@ -8,6 +8,7 @@ date: "2021-10-07"
 We are excited to launch [version 0.9 of Weavly](https://create.weavly.org/?v=0.9)
 along with some new activities in the Weavly [Educators Toolkit](https://weavly.org/learn/activities/?type=On-Screen).
 
+{{< youtube lrSKJfYYx7s >}}
 
 Changes in this version include:
 

@@ -516,19 +516,6 @@ footer a, footer a:visited {
         padding-top: 0;
     }
 
-    .org-logos-container {
-        display: flex;
-        justify-content: space-between;
-        width: 100%;
-        padding-top: 2em;
-        align-items: center;
-    }
-
-    /* OCADU logo is taller than others */
-    .org-logos-container a:nth-child(2) img {
-        height: 100px;
-    }
-
     .blog-posts {
         flex-direction: row;
         justify-content: center;
@@ -587,3 +574,23 @@ footer a, footer a:visited {
     }
 }
 
+@media screen and (min-width: 1100px) {
+    .org-logos-container {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        padding-top: 2em;
+        align-items: center;
+    }
+
+    /* OCADU logo is taller than others */
+    .org-logos-container a:nth-child(2) img {
+        height: 100px;
+    }
+
+    /* Hewlett logo wider than others */
+    .org-logos-container a:nth-child(5) img {
+        height: 100px;
+        width: 250px;
+    }
+}

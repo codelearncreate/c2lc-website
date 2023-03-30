@@ -18,8 +18,7 @@ If you're getting started using Weavly, you might find the videos on
 
 You can find resources and activities in the
 [Weavly Educator's Toolkit](https://weavly.org/learn/) including the new
-[facilitation guide]
-(https://weavly.org/learn/resources/facilitating-intergenerational-coding-workshops/)
+[facilitation guide](https://weavly.org/learn/resources/facilitating-intergenerational-coding-workshops/)
 for running intergenerational coding workshops.
 
 The 1.6 release was launched in November and included:

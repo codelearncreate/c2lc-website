@@ -1,5 +1,7 @@
 # Coding to Learn and Create
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cae0bdf6-226e-442b-b3fa-c320c5df6d0f/deploy-status)](https://app.netlify.com/sites/c2lc/deploys)
+
 The repository for the [Coding to Learn and Create](https://codelearncreate.org/) website. This site is managed using [Hugo](https://wiki.fluidproject.org/display/fluid/Maintain+Websites+Using+Hugo) and deployed using [Netlify](https://www.netlify.com/).
 
 ## Develop Locally

@@ -41,7 +41,7 @@ a, a:visited {
 
 a:focus {
     outline: 0.1em solid;
-    text-decoration: none;     
+    text-decoration: none;
 }
 
 h1, h2, h3 {
@@ -168,7 +168,7 @@ button {
 }
 
 #nav-toggle span:before {
-  top: -10px; 
+  top: -10px;
 }
 
 #nav-toggle span:after {
@@ -233,7 +233,11 @@ nav ul.active {
 .home-cta {
     padding-top: 1em;
     padding-bottom: 3em;
-    background-color: #5080C1;
+    background-color: #4872ad;
+    color: #FFFFFF;
+}
+
+.home-cta a{
     color: #FFFFFF;
 }
 
@@ -246,7 +250,7 @@ nav ul.active {
     color: #FFFFFF;
 }
 
-.home-cta-form {
+.home-cta-contact {
     padding-top: 2em;
 }
 
@@ -451,7 +455,7 @@ footer a, footer a:visited {
 
     .blog-posts {
         width: 80%;
-        margin: 0 auto 1.5em auto; 
+        margin: 0 auto 1.5em auto;
     }
 
     .indented {
@@ -521,11 +525,11 @@ footer a, footer a:visited {
         display: block;
     }
 
-    .home-cta-request, .home-cta-form, footer > .wrapper > .collapsible-container > p {
+    .home-cta-request, .home-cta-contact, footer > .wrapper > .collapsible-container > p {
         flex-basis: 42%;
     }
 
-    .home-cta-form {
+    .home-cta-contact {
         padding-top: 0;
     }
 
@@ -533,7 +537,7 @@ footer a, footer a:visited {
         flex-direction: row;
         justify-content: center;
     }
-    
+
     .blog-posts-titles {
         flex-basis: 80%;
     }

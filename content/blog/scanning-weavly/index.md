@@ -5,7 +5,7 @@ date: "2021-08-04"
 
 # Using Switches and Scanning with Weavly
 
-In July 2021, we virtually met with students in Ontario and Alberta who use switches and scanning software when using their computers. We started with an initial meeting with each student’s support team including educators, caregivers, occupational therapists, and assistive technology engineers to demonstrate Weavly, its keyboard shortcuts, and the integration of Grid 3. The goal of this meeting was to assist the student’s support team to adapt Weavly for their needs and setup an accessible environment for their participation in the co-design workshop.
+In July 2021, we virtually met with students who use switches and scanning software when using their computers. These students joined us from Holland Bloorview in Ontario and Alberta Health Services, and were accompanied by their caregivers and assistive technology specialists from those organizations. We started with an initial meeting with each student’s support team including educators, caregivers, occupational therapists, and assistive technology specialists to demonstrate Weavly, its keyboard shortcuts, and the integration of Grid 3. The goal of this meeting was to assist the student’s support team to adapt Weavly for their needs and setup an accessible environment for their participation in the co-design workshop.
 
 A few days after that initial meeting, we had a one hour workshop with each student. During the workshop, students worked with facilitators and developers from the C2LC team, and had access to their support team to complete the co-design activities using Weavly.
 

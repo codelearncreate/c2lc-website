@@ -1,9 +1,0 @@
-[[redirects]]
-	from = "https://codelearncreate.ca/*"
-	to = "https://codelearncreate.org/*"
-	status = 301
-
-[[redirects]]
-	from = "https://codelearncreate.com/*"
-	to = "https://codelearncreate.org/*"
-	status = 301
